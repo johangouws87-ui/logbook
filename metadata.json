@@ -1,0 +1,7 @@
+{
+  "name": "TaxDrive Logbook",
+  "description": "A high-performance GPS-based driving logbook for tax deductions. Track trips in real-time, categorize business vs. personal mileage, and use Gemini AI to generate professional tax reports.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
